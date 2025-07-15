@@ -40,5 +40,4 @@ to exchange feedback or explore collaboration opportunities.
 
 ---
 
-## 📌 GitHub Repository Link  
-> 👉 [Insert your GitHub repository link here after upload]
+## 📌 GitHub Repository Link   [https://github.com/ajayprasanth-dev/PowerBi-Student-Course-Dashboard]
